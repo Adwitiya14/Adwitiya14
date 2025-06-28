@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👋 Hi, I’m @Awitiya14
+- 👀 I’m interested in coding,creating and exploring. As well as sports! 
+- 🌱 I’m currently learning Bachelors in CS, 2nd year
+- 📫 Reach me via twitter-> @adwitiya_naha_
+- ▶ Java, C, C++, HTML,CSS, JavaScript, Python
+
+--->
