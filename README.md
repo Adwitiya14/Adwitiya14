@@ -21,5 +21,4 @@ Here are some ideas to get you started:
 - 📫 Reach me via twitter-> @adwitiya_naha_
 - ▶ Java , C , C++ , HTML , CSS , JavaScript , Python , AI .
 
-
 --->
