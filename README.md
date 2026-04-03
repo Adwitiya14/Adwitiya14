@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 👀 I’m interested in coding,creating and exploring. 
 - 🌱 I’m currently learning Bachelors in CS, 1st year.
 - 📫 Reach me via twitter->  @adwitiya_naha_ .
-- ▶ Java , C , C++ , HTML , CSS , JavaScript , Python , AI & ML.
+- ▶ Java , C , C++ , HTML , CSS , JavaScript , Python , AI & ML..
 -
  
 --->
